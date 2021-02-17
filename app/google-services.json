@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309526962026",
+    "project_id": "androidcours-a2791",
+    "storage_bucket": "androidcours-a2791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309526962026:android:972e657614b8868a544f13",
+        "android_client_info": {
+          "package_name": "com.zcdev.demo2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309526962026-950r9gi2c3i1t4e7urtk6j4knvnfbf3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QLMUZo3nxKJAISOeXDIcJz2saALdy_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309526962026-950r9gi2c3i1t4e7urtk6j4knvnfbf3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
